@@ -10,7 +10,7 @@ Basic actions consist of actions that should already work on most devices. Basic
 
 Basic Assistant Actions allows users to view basic action intent content and extra parameter. This intent is being sent to the Android system from Assistant while we give commands to the assistant with saying "Take a photo" , "Set an alarm" or some other basic actions defined below
 
-### Applied basic actions
+### Applied Basic Actions
 Applied basic actions can be implemented by including the corresponding intents and categories in the AndroidManifest.xml file. Some intents include data and extras.
 
 Call (number or contact)
