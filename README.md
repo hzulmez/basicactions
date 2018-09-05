@@ -37,10 +37,6 @@ The Google Assistant makes a distinction between the command "Show" and the comm
 For example, "Show my contacts" displays a list of contacts synced to a user's Google Account. "Open my contacts" tries to find an app named "Contacts" and launch that app.
 
 
-Note: The Google Assistant makes a distinction between the command "Show" and the command "Open." The command "Show" displays information on the screen, within the Google Assistant interface when possible. The command "Open" searches for an app and launches the app if found.
-
-For example, "Show my contacts" displays a list of contacts synced to a user's Google Account. "Open my contacts" tries to find an app named "Contacts" and launch that app.
-
 ## Examples
 
 ### Take a picture
